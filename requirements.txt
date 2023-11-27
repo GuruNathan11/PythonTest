@@ -9,4 +9,8 @@ MarkupSafe==1.1.1
 pytz==2020.1
 six==1.15.0
 SQLAlchemy==1.3.18
+<<<<<<< HEAD
 Werkzeug==2.2.3
+=======
+Werkzeug==2.2.3
+>>>>>>> 3ddc8e384696555f31e7983cd4ad5d232a786f94
